@@ -1,0 +1,32 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+  }
+h1{
+    color: goldenrod;
+}  
+*{
+    text-align: center;
+}
+#mobie{
+    color: aqua;
+}
+  p{
+    color: whitesmoke;  }  
+h2{
+    color: red;
+}
+
+h3{
+    color: yellow;
+}
+h4{
+    color: orangered;
+}
+h5{
+    color: green;
+}
+li{
+    color: blanchedalmond;
+}
